@@ -1,0 +1,6 @@
+{
+  "name": "MBA Companion",
+  "description": "An intelligent academic management assistant designed for MBA students to manage schedules, resources, assessments, performance tracking, and study assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
